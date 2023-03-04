@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="https://asdzn.pro/" target="_blank">Andrew</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Graphic & UI/UX Designer / Junior FrontEnd developer from Russia 🇷🇺</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-
-
+### Connect with me:
+<p align="left">
+	<a href="https://vk.com/asdznpro" target="blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/vk.svg" alt="asdznpro" /></a>
+	<a href="https://t.me/asdznpro" target="blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/telegram.svg" alt="asdznpro" /></a>
+</p>
