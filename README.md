@@ -3,6 +3,11 @@
 
 <img align="center" src="https://github.com/asdzn/asdzn/blob/main/img/banner.png" alt="cover" />
 
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
 <!-- ### Connect with me:
 <p align="left">
 	<a href="https://vk.com/asdznpro" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/vk.svg" alt="VK" height="40" width="40" /></a>
