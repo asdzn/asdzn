@@ -1,6 +1,7 @@
-<h1 align="center">Hi there, I'm <a href="https://asdzn.pro/" target="_blank">Andrew</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<img align="center" src="https://github.com/asdzn/asdzn/blob/main/img/cover.png" alt="cover" />
+<!--<h1 align="center">Hi there, I'm <a href="https://asdzn.pro/" target="_blank">Andrew</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>-->
+
+<img align="center" src="https://github.com/asdzn/asdzn/blob/main/img/banner.png" alt="cover" />
 
 <!-- ### Connect with me:
 <p align="left">
