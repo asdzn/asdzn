@@ -1,8 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://asdzn.pro/" target="_blank">Andrew</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Graphic & UI/UX Designer / Junior FrontEnd developer</h3>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<a href="#o"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/img/cover.png" alt="cover" /></a>
+<img align="center" src="https://github.com/asdzn/asdzn/blob/main/img/cover.png" alt="cover" />
+
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### Connect with me:
 <p align="left">
