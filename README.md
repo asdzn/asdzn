@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/asdzn/asdzn/blob/main/img/banner.png" alt="cover" />
+<img align="center" src="https://github.com/asdzn/asdzn/blob/main/img/cover.png" alt="cover" />
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
