@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Graphic & UI/UX Designer / Junior FrontEnd developer</h3>
 
+<a href="https://t.me/asdznpro" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/img/cover.png" alt="Telegram" /></a>
+
 ### Connect with me:
 <p align="left">
 	<a href="https://vk.com/asdznpro" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/vk.svg" alt="VK" height="40" width="40" /></a>
