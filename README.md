@@ -4,23 +4,23 @@
 
 ### Connect with me:
 <p align="left">
-	<a href="https://vk.com/asdznpro" target="blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/vk.svg" alt="VK" height="40" width="40" /></a>
-	<a href="mailto:hi@asdzn.pro" target="blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/vk-mail.svg" alt="VK Mail" height="40" width="40" /></a>
-	<a href="https://t.me/asdznpro" target="blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/telegram.svg" alt="Telegram" height="40" width="40" /></a>
+	<a href="https://vk.com/asdznpro" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/vk.svg" alt="VK" height="40" width="40" /></a>
+	<a href="mailto:hi@asdzn.pro" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/vk-mail.svg" alt="VK Mail" height="40" width="40" /></a>
+	<a href="https://t.me/asdznpro" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/telegram.svg" alt="Telegram" height="40" width="40" /></a>
 </p>
 
 ### Tools:
 <p align="left">
-	<a href="https://www.adobe.com/ru/products/photoshop.html" target="blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/photoshop.svg" alt="Photoshop" height="40" width="40" /></a>
-	<a href="https://www.adobe.com/ru/products/illustrator.html" target="blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/illustrator.svg" alt="Illustrator" height="40" width="40" /></a>
-	<a href="https://www.figma.com/" target="blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/figma.svg" alt="Figma" height="40" width="40" /></a>
-	<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/vs-code.svg" alt="VS Code" height="40" width="40" /></a>
-	<a href="https://git-scm.com/" target="blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/git.svg" alt="Git" height="40" width="40" /></a>
-	<a href="https://reactjs.org/" target="blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/react.svg" alt="React" height="40" width="40" /></a>
+	<a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/photoshop.svg" alt="Photoshop" height="40" width="40" /></a>
+	<a href="https://www.adobe.com/ru/products/illustrator.html" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/illustrator.svg" alt="Illustrator" height="40" width="40" /></a>
+	<a href="https://www.figma.com/" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/figma.svg" alt="Figma" height="40" width="40" /></a>
+	<a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/vs-code.svg" alt="VS Code" height="40" width="40" /></a>
+	<a href="https://git-scm.com/" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/git.svg" alt="Git" height="40" width="40" /></a>
+	<a href="https://reactjs.org/" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/react.svg" alt="React" height="40" width="40" /></a>
 </p>
 
 ### Languages:
 <p align="left">
-	<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/js.svg" alt="JavaScript" height="40" width="40" /></a>
-	<a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/ts.svg" alt="TypeScript" height="40" width="40" /></a>
+	<a href="https://www.javascript.com/" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/js.svg" alt="JavaScript" height="40" width="40" /></a>
+	<a href="https://www.typescriptlang.org/" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/ts.svg" alt="TypeScript" height="40" width="40" /></a>
 </p>
