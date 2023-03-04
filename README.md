@@ -24,3 +24,13 @@
 	<a href="https://www.javascript.com/" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/js.svg" alt="JavaScript" height="40" width="40" /></a>
 	<a href="https://www.typescriptlang.org/" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/icons/ts.svg" alt="TypeScript" height="40" width="40" /></a>
 </p>
+
+### 🧑‍💻 This week I spent my time on
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
+<!--END_SECTION:waka-->
