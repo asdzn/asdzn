@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -69,7 +69,7 @@ TypeScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/asdzn/asdzn/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2023 18:37:27 UTC
+ Last Updated on 18/04/2023 18:36:34 UTC
 <!--END_SECTION:waka-->
 
 
