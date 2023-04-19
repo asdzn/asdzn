@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 14.6 kB Used in GitHub's Storage 
+> 📦 12.2 kB Used in GitHub's Storage 
  > 
 > 🏆 93 Contributions in the Year 2023
  > 
@@ -69,7 +69,7 @@ TypeScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/asdzn/asdzn/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2023 18:36:34 UTC
+ Last Updated on 19/04/2023 18:37:01 UTC
 <!--END_SECTION:waka-->
 
 
