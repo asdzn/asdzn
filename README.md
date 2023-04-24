@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/asdzn/asdzn/blob/main/img/cover.png" alt="cover" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,16 +44,17 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tomsk
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+asdznpro-cv              0 secs              █████████████░░░░░░░░░░░░   51.29 % 
+no-sleep-agency-react    0 secs              ████████████░░░░░░░░░░░░░   48.71 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -69,7 +70,7 @@ TypeScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/asdzn/asdzn/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2023 18:36:41 UTC
+ Last Updated on 24/04/2023 18:37:07 UTC
 <!--END_SECTION:waka-->
 
 
