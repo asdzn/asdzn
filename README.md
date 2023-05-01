@@ -44,17 +44,16 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tomsk
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-asdznpro-cv              0 secs              █████████████░░░░░░░░░░░░   51.29 % 
-no-sleep-agency-react    0 secs              ████████████░░░░░░░░░░░░░   48.71 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -70,7 +69,7 @@ TypeScript               1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/asdzn/asdzn/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2023 18:37:18 UTC
+ Last Updated on 01/05/2023 18:36:38 UTC
 <!--END_SECTION:waka-->
 
 
