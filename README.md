@@ -1,75 +1,15 @@
 <img align="center" src="https://github.com/asdzn/asdzn/blob/main/img/cover.png" alt="cover" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 12.2 kB Used in GitHub's Storage 
- > 
-> 🏆 93 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 0 Private Repository 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                78 commits          █████████████████████░░░░   85.71 % 
-🌆 Daytime                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-🌃 Evening                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-🌙 Night                  6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Friday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Saturday                 80 commits          ██████████████████████░░░   87.91 % 
-Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+```txt
+TypeScript   7 hrs 21 mins   ██████████████▒░░░░░░░░░░   56.84 %
+SCSS         4 hrs 28 mins   ████████▓░░░░░░░░░░░░░░░░   34.51 %
+Git          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+TSConfig     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+HTML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tomsk
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               1 repo              █████████████████████████   100.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/asdzn/asdzn/main/assets/bar_graph.png)
-
-
- Last Updated on 02/05/2023 18:36:41 UTC
 <!--END_SECTION:waka-->
 
 
