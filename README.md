@@ -1,5 +1,7 @@
 <img align="center" src="https://github.com/asdzn/asdzn/blob/main/img/cover.png" alt="cover" />
 
+[![wakatime](https://wakatime.com/badge/user/b4e26df6-085e-4785-8ba2-7899deb6b601.svg?style=flat)](https://wakatime.com/@b4e26df6-085e-4785-8ba2-7899deb6b601)
+
 <!--START_SECTION:waka-->
 
 ```txt
