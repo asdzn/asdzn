@@ -32,6 +32,12 @@ JavaScript       17 hrs 16 mins        ▒░░░░░░░░░░░░�
 	<a href="https://t.me/asdznpro" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/img/icons/telegram.svg" alt="Telegram" height="40" width="40" /></a>
 </p>
 
+<p align="left">
+	<a href="https://vk.com/asdznpro" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/img/icons/vk.svg" alt="VK" height="40" width="40" /></a>
+	<a href="mailto:hi@asdzn.pro" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/img/icons/vk-mail.svg" alt="VK Mail" height="40" width="40" /></a>
+	<a href="https://t.me/asdznpro" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/img/icons/telegram.svg" alt="Telegram" height="40" width="40" /></a>
+</p>
+
 ### Tools:
 <p align="left">
 	<a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank"><img align="center" src="https://github.com/asdzn/asdzn/blob/main/img/icons/photoshop.svg" alt="Photoshop" height="40" width="40" /></a>
