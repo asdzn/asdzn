@@ -7,9 +7,9 @@
 ```txt
 From: 03 March 2023 - To: 01 August 2026
 
-Total Time: 1,637 hrs 25 mins
+Total Time: 1,637 hrs 28 mins
 
-TypeScript       1,231 hrs 3 mins      ██████████████████▓░░░░░░   74.38 %
+TypeScript       1,231 hrs 6 mins      ██████████████████▓░░░░░░   74.38 %
 SCSS             265 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
 JSON             28 hrs 56 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 Vue.js           25 hrs 25 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
